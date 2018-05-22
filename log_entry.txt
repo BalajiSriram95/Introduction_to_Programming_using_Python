@@ -1,0 +1,12 @@
+Banana - 1kg 20.00
+Cherry - 300gs 30.00
+Grape - 1kg 40.00
+Watermelon - 2kg 50.00
+total = 140.00
+
+Beetroot - 1kg 20.00
+Tomato - 1kg 30.00
+Carrot - 1kg 40.00
+Potato - 2kg 50.00
+total = 140.00
+
